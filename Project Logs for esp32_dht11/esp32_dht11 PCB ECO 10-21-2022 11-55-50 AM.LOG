@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=EN Pin=Q2-3
+Added Pin To Net: NetName=IO0 Pin=Q3-3
+Added Pin To Net: NetName=EN Pin=U1-3
+Added Pin To Net: NetName=IO0 Pin=U1-25
+Added Room: Name=U_dht11
+Added Room: Name=U_lcd
+Added Room: Name=U_mcu
+Added Room: Name=U_power
+Added Room: Name=U_usbtouart
